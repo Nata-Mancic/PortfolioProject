@@ -31,3 +31,8 @@ analyzing the Cyclistic historical bike trip data to identify trends.
 ## Dataset
 
 The data for a fictional company Cyclistic are avaliable [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
+
+## Tools
+* Data Cleaning: Microsoft Excel
+* Data Analysis: PostgreSQL
+* Visualization: Tableau Public

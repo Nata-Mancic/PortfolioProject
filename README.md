@@ -53,8 +53,12 @@ The dataset used for this project covers the period from January 2023 to Decembe
 * Visualization: Tableau Public
 
 ## Data Cleaning
-I used Microsoft Excel for cleaning the files. Firstly I checked for duplicates and for missing values, 
+I used Microsoft Excel for cleaning the files. Firstly I checked for duplicates, misspelled and missing values, 
 after that I removed columns that are unnecessary for this analysis: start_station_id, end_station_id, start_lat, start_lng, end_lat, end_lng.
 
 I created new columns: ride_length (ended_at - started_at) and day_of_week (from 1 = Monday through 7 = Sunday).
+
+## Data Analysis
+I used PostgreSQL to create database for Cyclistic bike-share analysis. I imported .csv files for each month in 2023,
+and use UNION function to combine tables for each month into one table.
 

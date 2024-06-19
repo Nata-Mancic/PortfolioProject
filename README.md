@@ -31,8 +31,30 @@ analyzing the Cyclistic historical bike trip data to identify trends.
 ## Dataset
 
 The data for a fictional company Cyclistic are avaliable [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
+The dataset used for this project covers the period from January 2023 to December 2023. Each file consists of the following columns:
+
+* ride_id : unique id of each ride trip
+* rideable_type : type of bicycle ridden (classic, docked or electric)
+* started_at : date and time of the start of the ride
+* ended_at : date and time of the end of the ride
+* start_station_name : start station name
+* start_station_id : start station id
+* end_station_name : end station name
+* end_station_id : end station id
+* start_lat : latitude of the start location
+* start_lng : longitude of the start location
+* end_lat : latitude of the end location
+* end_lng : longitude of the end location
+* member_casual : type of membership (casual or member)
 
 ## Tools
 * Data Cleaning: Microsoft Excel
 * Data Analysis: PostgreSQL
 * Visualization: Tableau Public
+
+## Data Cleaning
+I used Microsoft Excel for cleaning the files. Firstly I checked for duplicates and for missing values, 
+after that I removed columns that are unnecessary for this analysis: start_station_id, end_station_id, start_lat, start_lng, end_lat, end_lng.
+
+I created new columns: ride_length (ended_at - started_at) and day_of_week (from 1 = Monday through 7 = Sunday).
+

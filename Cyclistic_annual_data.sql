@@ -159,7 +159,7 @@ GROUP BY
 	day_of_week,
 	member_casual
 
---difference between workday and weekends
+--difference between weekday and weekends
 SELECT
 	CASE
 		WHEN day_of_week BETWEEN 1 AND 5 THEN 'weekday'

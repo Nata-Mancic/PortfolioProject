@@ -68,3 +68,9 @@ Before continuing to the analysis I checked again if there are 3 types of bikes 
 I performed following analysis in order to find differences between **casual** and **member** customers:
 * total number of rides
 * percentage of total number of rides
+* number of rides per bike type
+* average ride lenght
+* number of rides per month and quarter
+* number of rides per each day, week (weekday or weekend), and time of the day (morning, afternoon, evening or night)
+
+## Data Visualization

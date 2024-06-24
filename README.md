@@ -76,4 +76,5 @@ I performed following analysis in order to find differences between **casual** a
 ## Data Visualization
 I created a dashboard using Tableau. The dashboard is shared on [Tableau public](https://public.tableau.com/app/profile/natalija.mancic/viz/Cyclistic_dashboard_17192242813690/membervscasualcustomers).
 
-![member vs casual customers](https://github.com/Nata-Mancic/PortfolioProject/assets/173147286/4e59a53b-2371-4541-9f77-09b8d80e2f4c)
+![member vs casual customers (1)](https://github.com/Nata-Mancic/PortfolioProject/assets/173147286/3aa5d3c9-742b-47a7-b04b-a2a7dbc7bcbe)
+

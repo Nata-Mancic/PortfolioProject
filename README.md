@@ -74,3 +74,6 @@ I performed following analysis in order to find differences between **casual** a
 * number of rides per each day, week (weekday or weekend), and time of the day (morning, afternoon, evening or night)
 
 ## Data Visualization
+I created a dashboard using Tableau. The dashboard is shared on [Tableau public](https://public.tableau.com/app/profile/natalija.mancic/viz/Cyclistic_dashboard_17192242813690/membervscasualcustomers).
+
+![member vs casual customers](https://github.com/Nata-Mancic/PortfolioProject/assets/173147286/4e59a53b-2371-4541-9f77-09b8d80e2f4c)

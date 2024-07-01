@@ -119,3 +119,5 @@ To convert casual customers into annual customers I suggest the following strate
 * **Unlimited Rides**: Highlight the benefit of unlimited or a higher number of rides included in the annual membership compared to the casual ride model.
 * **Rewards program**: Implement a rewards program where annual members can earn points or rewards.
 * **Trial Memberships**: Offer trial periods for annual memberships at a reduced rate, allowing casual members to experience the benefits before committing.
+
+By implementing these strategies company can adjust its services to meet the needs of casual users, show the value of annual memberships to casual users and encourage them to make the transition.

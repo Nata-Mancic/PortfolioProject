@@ -95,6 +95,7 @@ I performed following analysis in order to find differences between **casual** a
   ![image](https://github.com/Nata-Mancic/PortfolioProject/assets/173147286/c41ac11a-cd08-4c4b-a974-d041eb7c9423)
 
 
+You can check the SQL queries [here](https://github.com/Nata-Mancic/PortfolioProject/blob/main/Cyclistic_annual_data.sql).
 
 ## Data Visualization
 I created a dashboard using Tableau. The dashboard is shared on [Tableau public](https://public.tableau.com/app/profile/natalija.mancic/viz/Cyclistic_dashboard_17192242813690/membervscasualcustomers).

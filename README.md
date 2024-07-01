@@ -103,16 +103,16 @@ I created a dashboard using Tableau. The dashboard is shared on [Tableau public]
 
 ## Conclusions
 
-* Annual members outnumber casual members.
-* Annual members primarily use classic and electric bikes, while casual members utilize all three types of bikes: classic, electric, and docked.
-* Casual members tend to have longer ride durations.
-* The lowest number of rides for casual members occurs in the first quarter, while the highest number is in the third quarter, particularly in August.
-* Casual members take more rides during weekends.
-* Annual members predominantly ride in the mornings and afternoons, whereas casual members have the highest number of rides in the afternoons and evenings.
+* Annual customers outnumber casual customers.
+* Annual members primarily use classic and electric bikes, while casual customers utilize all three types of bikes: classic, electric, and docked.
+* Casual customers tend to have longer ride durations.
+* The lowest number of rides for casual customers is in the first quarter, while the highest number is in the third quarter, particularly in August.
+* Casual customers take more rides during weekends.
+* Annual members mostly ride in the mornings and afternoons, and casual customers have the highest number of rides in the afternoons and evenings.
 
 To convert casual customers into annual customers I suggest the following strategies:
 * **Weekend Promotions**: Since casual members ride more during weekends, create special promotions, discounts, or events that encourage weekend rides.
-* **Seasonal Offers**: Promote bike rentals during the third quarter, especially in August, when it's a peak season for casual rides.
+* **Seasonal Offers**: Promote bike rentals during the third quarter, especially in August, when it's a peak season for casual customers.
 * **Highlight on the docked bikes**: As casual members use all bike types, highlight the availability of docked bikes in marketing materials.
 * **Feedback**: Gather feedback from casual users to understand their needs and preferences, and adjust services accordingly.
 * **Cost Comparison**: Show the cost savings of an annual membership compared to frequent casual usage. Use data to show how much casual members could save annually.

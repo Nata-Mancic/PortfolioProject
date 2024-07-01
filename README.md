@@ -68,13 +68,54 @@ Before continuing to the analysis I checked again if there are 3 types of bikes 
 I performed following analysis in order to find differences between **casual** and **member** customers:
 * total number of rides
 * percentage of total number of rides
+
+  ![image](https://github.com/Nata-Mancic/PortfolioProject/assets/173147286/d13bec2c-515d-4327-bf4c-a75bd9243c49)
+
 * number of rides per bike type
+
+  ![image](https://github.com/Nata-Mancic/PortfolioProject/assets/173147286/99e523f9-14c2-49df-9c1a-7071bfd4108f)
+
 * average ride lenght
+
+  ![image](https://github.com/Nata-Mancic/PortfolioProject/assets/173147286/b9ab14aa-fefd-4501-8533-3763641006a5)
+
 * number of rides per month and quarter
+
+  ![image](https://github.com/Nata-Mancic/PortfolioProject/assets/173147286/4b49ad70-f3b2-4a37-a474-c20d53d4c573)
+
+  ![image](https://github.com/Nata-Mancic/PortfolioProject/assets/173147286/5096b029-305c-4a99-85dc-6eeb130c2d12)
+
+
 * number of rides per each day, week (weekday or weekend), and time of the day (morning, afternoon, evening or night)
+
+  ![image](https://github.com/Nata-Mancic/PortfolioProject/assets/173147286/93040d37-cbd7-429a-85b0-618486649b2d)
+
+  ![image](https://github.com/Nata-Mancic/PortfolioProject/assets/173147286/5afc2092-3afe-4a4d-959d-bcbd0352bb05)
+
+  ![image](https://github.com/Nata-Mancic/PortfolioProject/assets/173147286/c41ac11a-cd08-4c4b-a974-d041eb7c9423)
+
+
 
 ## Data Visualization
 I created a dashboard using Tableau. The dashboard is shared on [Tableau public](https://public.tableau.com/app/profile/natalija.mancic/viz/Cyclistic_dashboard_17192242813690/membervscasualcustomers).
 
 ![member vs casual customers (1)](https://github.com/Nata-Mancic/PortfolioProject/assets/173147286/3aa5d3c9-742b-47a7-b04b-a2a7dbc7bcbe)
 
+## Conclusions
+
+* Annual members outnumber casual members.
+* Annual members primarily use classic and electric bikes, while casual members utilize all three types of bikes: classic, electric, and docked.
+* Casual members tend to have longer ride durations.
+* The lowest number of rides for casual members occurs in the first quarter, while the highest number is in the third quarter, particularly in August.
+* Casual members take more rides during weekends.
+* Annual members predominantly ride in the mornings and afternoons, whereas casual members have the highest number of rides in the afternoons and evenings.
+
+To convert casual customers into annual customers I suggest the following strategies:
+* **Weekend Promotions**: Since casual members ride more during weekends, create special promotions, discounts, or events that encourage weekend rides.
+* **Seasonal Offers**: Promote bike rentals during the third quarter, especially in August, when it's a peak season for casual rides.
+* **Highlight on the docked bikes**: As casual members use all bike types, highlight the availability of docked bikes in marketing materials.
+* **Feedback**: Gather feedback from casual users to understand their needs and preferences, and adjust services accordingly.
+* **Cost Comparison**: Show the cost savings of an annual membership compared to frequent casual usage. Use data to show how much casual members could save annually.
+* **Unlimited Rides**: Highlight the benefit of unlimited or a higher number of rides included in the annual membership compared to the casual ride model.
+* **Rewards program**: Implement a rewards program where annual members can earn points or rewards.
+* **Trial Memberships**: Offer trial periods for annual memberships at a reduced rate, allowing casual members to experience the benefits before committing.
